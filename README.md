@@ -9,7 +9,7 @@ A web-based patient management system for hospitals built with Streamlit.
 - Responsive web interface
 
 ## Live Demo
-[Add your Streamlit Cloud link here after deployment]
+somali-programmer/hospital-management-system/main/web_app.py
 
 ## Local Development
 
